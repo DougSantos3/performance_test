@@ -20,3 +20,4 @@
 
 
 ![Log do Terminal](images/image.png)
+![Log do Terminal](images/image2.png)
