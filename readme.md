@@ -21,3 +21,12 @@
 
 ![Log do Terminal](images/image.png)
 ![Log do Terminal](images/image2.png)
+
+
+`k6 run scripts/load_test.js`
+<br>
+
+`k6 run scripts/stress_test.js`
+<br>
+
+`k6 run scripts/spike_test.js`
